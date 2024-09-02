@@ -45,4 +45,14 @@ Each directory contains specific scripts to perform calculations related to the 
 
 4. **Xray**:
    - Additional resources for X-ray analysis are included here.
+  
+
+  ## Future Work
+
+This project is a work in progress, and there are several areas where additional functionality and optimizations can be implemented. Future updates may include more detailed analysis scripts, improved data handling, and expanded support for different materials and diffraction patterns.
+
+
+## Acknowledgements
+
+Special thanks to Prof.Andrew Boothroyd who has contributed to the development and guidance of this project. 
 
