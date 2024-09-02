@@ -22,3 +22,27 @@ Ensure you have Python installed on your system. You can install any required pa
 
 ```bash
 pip install -r requirements.txt
+```
+### Usage
+
+Each directory contains specific scripts to perform calculations related to the project:
+
+1. **Attenuation factor**:
+   - Navigate to the `Attenuation factor` directory and run `factor.py`:
+     ```bash
+     python factor.py
+     ```
+
+2. **Curie-Weiss Analysis**:
+   - Navigate to the `Curie-Weiss Analysis` directory and run `plotdat.py`:
+     ```bash
+     python plotdat.py
+     ```
+
+3. **Structure factor**:
+   - Contains X-ray-related computations.
+   - Further instructions on usage will be provided in the respective scripts.
+
+4. **Xray**:
+   - Additional resources for X-ray analysis are included here.
+
